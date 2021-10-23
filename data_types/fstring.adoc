@@ -1,0 +1,14 @@
+:source-highlighter: rouge
+== String Formatting in Python
+=== F-string formatting
+==== code
+[source,python]
+----
+name = "Dave"
+print(f'{name}')
+----
+==== Output
+----
+Dave
+----
+

@@ -1,0 +1,15 @@
+= Python Snippets
+Matt York  <my0373@gmail.com>
+:toc:
+:icons: font
+:url-quickref:
+
+// Include the fstring documentation
+include::data_types/fstring.adoc[]
+Content entered directly below the header but before the first section heading is called the preamble.
+
+== References
+
+https://docs.asciidoctor.org/home/[Asciidoctor documentation].
+https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[Asciidoctor Quick reference]
+
